@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Artefatos de build
+build/
+dist/*
+!dist/main.exe
+
+# Arquivos de tooling
+*.log
