@@ -15,7 +15,6 @@ Funcionalidades principais:
 - Formatação de número para reduzir ruído de ponto flutuante (exemplo: evita -0 e excessos de casas).
 - Atalhos de teclado:
   - 0-9 para dígitos
-  - + - * / para operações
   - Enter para calcular
   - Esc/Delete para limpar
   - Backspace para apagar último dígito
